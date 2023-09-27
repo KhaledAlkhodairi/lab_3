@@ -1,0 +1,27 @@
+.image-preview img {
+    border-top: 30px solid skyblue;
+    border-right: 30px solid lightpink;
+    border-left: 30px solid #ffefd5;
+    border-bottom: 30px solid lightgreen;
+  
+  }
+  
+  table.mytable {
+    border-collapse: separate;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  table.mytable th,
+  table.mytable td {
+    border: 2px solid ;
+    padding: 15px;
+    text-align: center;
+    background-color: white;
+  }
+  
+  table.mytable tr td:first-child {
+    font-weight: bold;
+    color:black;
+    background-color: skyblue;
+  }
